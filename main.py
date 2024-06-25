@@ -37,7 +37,7 @@ time.sleep(2)
 ######################################################
 
 # Loop for gathering a lot of data
-for i in range(500):
+for i in range(250):
 	print("-----------------------")
 	print("Loop ke-" + str(i + 1))
 	print("-----------------------")
